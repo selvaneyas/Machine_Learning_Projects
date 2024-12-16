@@ -1,5 +1,9 @@
 # Handwritten Digit Recognition
 
+---
+
+![Hand Written Digit Recognition Project.png](images/Hand Written Digit Recognition Project.png)
+
 ## Overview
 This project involves building a Machine Learning model to recognize handwritten digits (0-9) using the **`digits` dataset** from `sklearn.datasets`. The model is trained, evaluated, and tested to classify images of handwritten digits into their respective categories.
 
@@ -9,14 +13,13 @@ This project involves building a Machine Learning model to recognize handwritten
 3. Build an intuitive pipeline for training, testing, and predicting digits.
 4. Explore practical applications of handwritten digit recognition.
 
----
 
 ## Dataset
 - **Source**: `load_digits` function from `sklearn.datasets`.
 - **Images**: 8x8 grayscale images representing digits from 0 to 9.
 - **Labels**: Corresponding digit labels for each image.
 
----
+
 
 ## Project Workflow
 1. **Data Loading and Exploration**  
@@ -52,7 +55,6 @@ Install the required libraries using:
 pip install -r requirements.txt
 ```
 
----
 
 ## Usage
 1. Clone the repository:
@@ -68,27 +70,23 @@ pip install -r requirements.txt
 
 3. Run the cells step-by-step to load the dataset, preprocess data, train the model, and visualize results.
 
----
 
 ## Results
 - Achieved an accuracy of **98.33%** on the test set.
 - Successfully visualized data clusters using PCA.
 - Model predictions align well with actual labels, showcasing high reliability.
 
----
 
 ## Example Output
 #### Sample Images and Predictions:
 ![Sample Predictions](images/sample.jpg)
 
----
 
 ## Future Work
 - Extend the project to recognize digits from real-world images.
 - Integrate the model into a web or mobile application.
 - Experiment with other machine learning or deep learning models like CNNs.
 
----
 
 ## License
 This project is licensed under the MIT License.

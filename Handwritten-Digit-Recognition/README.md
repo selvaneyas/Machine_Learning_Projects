@@ -43,7 +43,6 @@ This project involves building a Machine Learning model to recognize handwritten
 6. **Prediction**  
    - Test the model's predictions on unseen data and visualize results.
 
----
 
 ## Dependencies
 - Python 3.7+

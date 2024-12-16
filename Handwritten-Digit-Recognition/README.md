@@ -2,7 +2,7 @@
 
 ---
 
-![Hand Written Digit Recognition Project.png](images/Hand Written Digit Recognition Project.png)
+![Hand Written Digit Recognition Project.png](images/HandWrittenDigitRecognitionProject.jpg)
 
 ## Overview
 This project involves building a Machine Learning model to recognize handwritten digits (0-9) using the **`digits` dataset** from `sklearn.datasets`. The model is trained, evaluated, and tested to classify images of handwritten digits into their respective categories.
